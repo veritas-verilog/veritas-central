@@ -6,3 +6,5 @@ authors = ["Tanishq Dubey <tanishq.dubey@gmail.com>"]
 [dependencies]
 rocket = "0.3.10"
 rocket_codegen = "0.3.10"
+postgres = "0.15"
+
